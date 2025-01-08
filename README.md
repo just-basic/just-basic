@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<img alt="stats" align="left" width="40%" src="https://github-readme-stats.vercel.app/api/wakatime?username=just-basic&show_icons=true&theme=transparent"/>
+<img alt="top_language" align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=just-basic&show_icons=true&theme=transparent&layout=compact"/>
+<img alt="stats" align="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=just-basic&show_icons=true&theme=transparent"/>
+
 <!--
 **just-basic/just-basic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
