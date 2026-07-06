@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+This user stores EDU like repositories
+
 <img alt="top_language" align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=just-basic&show_icons=true&theme=transparent&layout=compact"/>
 <img alt="stats" align="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=just-basic&show_icons=true&theme=transparent"/>
 
